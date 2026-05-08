@@ -34,7 +34,7 @@ const HeroSection = () => {
           {/* Left Content */}
           <div className="space-y-8">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-              Professional Websites for Ahmedabad Businesses
+              Professional Websites for Businesses
             </h1>
             <p className="text-lg md:text-xl text-gray-300 leading-relaxed">
               Custom Coded · WordPress · Ecommerce · SEO & Marketing
